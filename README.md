@@ -66,8 +66,5 @@ uvicorn backend.main:app --reload
 streamlit run frontend/app.py
 ```
 
-## 📬 Connect with Me
-- GitHub: [monkeplication](https://github.com/monkeplication)
-
 ---
 
